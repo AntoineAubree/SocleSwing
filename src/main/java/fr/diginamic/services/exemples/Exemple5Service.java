@@ -1,6 +1,5 @@
 package fr.diginamic.services.exemples;
 
-import java.awt.Color;
 import java.util.List;
 
 import javax.persistence.EntityManager;
